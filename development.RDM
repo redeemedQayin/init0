@@ -1,0 +1,18 @@
+>>>chapter:1
+#development_tasks[priority=0]
+#DEF title=python app
+desc:"ptyhon-written aplication to manage the routine and activities to do"
++math
++computing
++python
++logic
++productivity
+
+
+
+features:[
+    server-side api,
+run localy - mobile device,
+versions:[online,offline],
+[more..]
+
